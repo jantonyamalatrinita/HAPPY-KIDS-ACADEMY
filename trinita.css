@@ -1,0 +1,47 @@
+.logo{
+    height: 100px!important;
+}
+.amala{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    padding: 15px;
+}
+.trinita{
+    /* box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px; */
+}
+.amala img{
+   
+    height :450px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.tinu img{
+   
+    height :325px;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    border-radius: 50px;
+}
+ul{
+    font-size: larger;
+}
+.green{
+    background-color: rgb(8, 8, 231);
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.green i {
+    font-size: 50px;
+    color: azure;
+    margin-top: 20px;
+}
+.green h4{
+    color: aliceblue;
+    font-size: 25px;
+    margin-top: auto;
+    padding: 20px;
+    font-size: 25px;
+}
